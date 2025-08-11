@@ -23,6 +23,11 @@ To capture and analyze network traffic using Wireshark, and identify different n
 - `my_capture_dns.pcap` – Captured DNS queries (name resolution)
 - `README.md` – This summary of the task
 
+## 📸 Screenshot
+Below is a screenshot of one of the filtered captures in Wireshark:
+![Wireshark Screenshot](My Whole Capture.png)
+
+
 ## 🔍 Protocols Observed
 - **TCP** – Used for reliable communication and seen in most traffic
 - **HTTP** – Unencrypted web traffic (GET requests and responses)
